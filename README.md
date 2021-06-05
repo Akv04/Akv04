@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aman Verma 
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently mastering my DSA 
 - 📫 How to reach me Email: amanverma986@gmail.com
 
 <!---
